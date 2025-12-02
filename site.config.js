@@ -6,8 +6,9 @@ const CONFIG = {
     role: "game client developer",
     bio: "주로 Unity를 활용하여 모바일 게임 개발을 진행합니다",
     email: "ghdwls465412@gmail.com",
+    linkedin: "morethanmin",
     github: "github.com/hongjinkim",
-    instagam : "",
+    instagram: "",
   },
   projects: [
     {
