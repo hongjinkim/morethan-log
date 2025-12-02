@@ -7,6 +7,7 @@ const CONFIG = {
     bio: "주로 Unity를 활용하여 모바일 게임 개발을 진행합니다",
     email: "ghdwls465412@gmail.com",
     github: "github.com/hongjinkim",
+    instagam : "",
   },
   projects: [
     {
