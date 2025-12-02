@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "김홍진의 블로그",
+    description: "개발자 김홍진의 기록 보관용 블로그입니다",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
