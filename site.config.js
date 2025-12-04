@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "김홍진의 블로그",
-    description: "개발자 김홍진의 기록 보관용 블로그입니다",
+    title: "Unity 게임 개발자 김홍진의 블로그 | C# & Unity",
+    description: "개발자 김홍진의 C# & Unity의 공부와 프로젝트의 기록 보관 블로그입니다",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
